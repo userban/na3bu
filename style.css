@@ -126,12 +126,12 @@ footer {
   }
 
   .main-content {
-    max-width: 325px;
+    max-width: 85%;
     margin-left: 10%;
   }
 
   li, ul, ol {
-    max-width: 325px;
+    max-width: 90%;
     margin: 0%;
     margin-left: 10%;
   }
